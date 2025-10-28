@@ -1,1 +1,1 @@
-# rlmind.github
+# RL-MIND Lab
